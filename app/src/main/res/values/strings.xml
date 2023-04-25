@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Process Monitor</string>
+    <string name="root">Root</string>
+    <string name="no_root">No Root</string>
+    <string name="hellow">Hello World!</string>
+    <string name="note_msg">Note: <b>This app can work without root but you can only kill background processes and not all processes.</b> Also, some applications may have services that automatically restart the process when it is killed. Therefore, killing processes may not have a significant impact on the overall performance of the device.</string>
+    <string name="warn_kill">Warning: Killing apps may cause instability and/or data loss. Make sure you have saved any important data before proceeding. Killing apps may also impact their functionality and cause unexpected behavior. Do it only if you know what you are doing.</string>
+    <string name="not_root_shell_warn">You are not running a root shell. You may not see all processes and may fail to kill some processes. In that case you can always disable those using adb</string>
+    <string name="sort_by_memory_usage">Sort by Memory Usage</string>
+</resources>
